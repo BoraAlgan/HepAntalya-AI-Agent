@@ -54,26 +54,8 @@ Liste açılır, filtre uygulanır, detaya girilir, hesaptan giriş yapılır, k
 
 
 
-## Bir şeyler ters giderse
-
-
-
-Supabase bazen kısa sürede çok kayıt veya şifre sıfırlama denendiğinde e-posta limiti hatası veriyor, bir süre beklemek veya testte mail doğrulamasının kapatılması (sadece dev için) işe yarayabiliyor.
-
-
-
 ## Klasörler (kabaca)
 
 
 
 `App.tsx` giriş noktası, `src/screens` ekranlar, `src/navigation` sekmeler ve stack, `src/context` auth, `src/lib` supabase ve asistan isteği, `src/types` tipler.
-
-
-
-## Lisans
-
-
-
-Private proje.
-
-
