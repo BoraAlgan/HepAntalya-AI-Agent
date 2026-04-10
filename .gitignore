@@ -1,5 +1,3 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
 # dependencies
 node_modules/
 
@@ -39,7 +37,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Ortam ve gizli anahtarlar (asla commit etme)
+# Ortamlar
 .env
 .env.*
 !.env.example
